@@ -1,0 +1,11 @@
+Objetivo criar algoritmos com situações cotidianas
+
+1 = crie um algoritmo Go to skate Park .
+
+2 = Crie um algoritmo que descreva como fazer um bom churrasco.
+
+3 = crie um algoritmo que descreva o melhor caminho para ubatuba
+
+4 = crie um algoritmo que descreva os passos para a viagem para o ES
+
+5 = Crie um algoritmo que descreva como ir ao bar beber cerveja
