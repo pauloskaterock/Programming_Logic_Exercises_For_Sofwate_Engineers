@@ -38,7 +38,7 @@ class Exemplo
 # Métodos de Ajudante:
 # Métodos de ajudante são usados em Rails para encapsular lógica de apresentação nas visualizações.
 
-# No arquivo de ajudante (app/helpers/application_helper.rb)
+# No arquivo de ajudante (app/helpers/application_helper.py)
 
 module ApplicationHelper
     def formatar_data(data)
@@ -46,7 +46,7 @@ module ApplicationHelper
     end
   end
 
-  # No arquivo de visualização (por exemplo, app/views/posts/show.html.erb):
+  # No arquivo de visualização (por exemplo, app/views/posts/show.html.epy):
 
 #   <!-- Uso do método de ajudante em uma visualização -->
 #     <%= formatar_data(@post.created_at) %>
